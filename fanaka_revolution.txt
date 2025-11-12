@@ -1,2 +1,3 @@
 - mempelajari java
 - mempelajari javascript
+- memperdalam java dan javascript
