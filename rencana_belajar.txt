@@ -11,4 +11,5 @@ alur rencana
 - belajar output(print, println, printf)
   * mempelajari kapan harus  menggunakan print, println, printf
   * membuat kalkulator sederhana
+    ^ kalkulator dasar
   * membuat sistem login
