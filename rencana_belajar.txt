@@ -8,6 +8,5 @@ alur rencana
 - switch case
 
 -: day 2
-- belajar output(print, println, printf)
   * kalkulator sederhana
     ^ kalkulator menengah
