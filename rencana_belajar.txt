@@ -9,3 +9,5 @@ alur rencana
 
 -: day 2
 - belajar output(print, println, printf)
+- belajar dasar dari jaringan
+- membuat code yang bersih
