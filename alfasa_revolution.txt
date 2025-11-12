@@ -1,0 +1,4 @@
+alfasa revolution
+- konsisten belajar coding setiap hari
+- belajar git
+- belajar github
