@@ -12,3 +12,9 @@ alur rencana
     ^ kalkulator menengah
     ^ kalkulator dasar
     ^ kalkulator atas
+
+-: day 2
+  * sistem login
+    ^ login dasar
+    ^ login menengah
+    ^ login expert
