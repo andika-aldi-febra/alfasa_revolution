@@ -6,3 +6,6 @@ alur rencana
 - for loop
 - do while loop
 - switch case
+
+-: day 2
+- belajar output(print, println, printf)
