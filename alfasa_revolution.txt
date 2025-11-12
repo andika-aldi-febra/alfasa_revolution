@@ -3,4 +3,4 @@ alfasa revolution
 - belajar git
 - belajar github
 - menjadi programmer terbaik dari yang terbaik
-- belajar lebih banyak bahasa pemrograman
+- menjadi ahlinya di bidang programmer
