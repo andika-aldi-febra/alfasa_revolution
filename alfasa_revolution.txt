@@ -2,3 +2,5 @@ alfasa revolution
 - konsisten belajar coding setiap hari
 - belajar git
 - belajar github
+- menjadi programmer terbaik dari yang terbaik
+- belajar lebih banyak bahasa pemrograman
