@@ -10,3 +10,5 @@ alur rencana
 -: day 2
   * kalkulator sederhana
     ^ kalkulator menengah
+    ^ kalkulator dasar
+    ^ kalkulator atas
