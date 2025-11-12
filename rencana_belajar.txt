@@ -13,7 +13,7 @@ alur rencana
     ^ kalkulator dasar
     ^ kalkulator atas
 
--: day 2
+-: day 3
   * sistem login
     ^ login dasar
     ^ login menengah
